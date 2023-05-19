@@ -4,6 +4,8 @@ In this project, the goal is to use exploratory analysis and to perform visualiz
 Flight delays impact airlines, passengers and air traffic. Flight delays are inconvenient & bad for business. Building accurate models to predict flight delays would be a huge boon to airline industry and that becomes challenging due to the complexity involved in the air transportation system and the large chunks of flight data available.
 In the first part of the project, we look at using Python based Logistic Regression along with Support Vector Machine and then plugging the dataset into our classifier for results. In the second part of the project, we primarily focus on gathering a dataset from Twitter, breaking the dataset down and identifying relevant attributes. Upon examining the results, we compare the results with other models such as Random Forest Classifier and derive the best classifier to solve the problem. 
 
+- AAYUSHI , 3rd yr CSE student at VIT,Chennai
+
 Outputs :-
 
 ![image](https://github.com/Aayushi2412/Prediction-in-Flight-Delays/assets/106343054/14a7ab9d-d8ab-4a34-a75e-5be6f1b551cb)
